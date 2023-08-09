@@ -1,7 +1,9 @@
 name: nostra_pkg
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+description: This package published for training purpose only. Udah ah gitu aja. Pokoknya lebih dari 60 char hehehe.
+version: 1.0.1
+
+repository: https://github.com/tontonanrakyat/nostra_pkg
+homepage: https://github.com/tontonanrakyat/nostra_pkg/blob/main/README.md
 
 environment:
   sdk: ^3.0.3
